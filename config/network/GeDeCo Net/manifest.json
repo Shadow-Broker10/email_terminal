@@ -3,7 +3,7 @@
     "serverName": "General Development Corporation Network",
     "iconName": "",
     "terminalID": "GDC.B96",
-    "deafaultUser": {
+    "defaultUser": {
         "userID": "sales",
         "password": "",
         "userName": "Valued Customer"
