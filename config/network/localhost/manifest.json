@@ -1,12 +1,12 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "Remote Terminal L.V.2",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "RLV2",
     "defaultUser": {
-        "userId": "user",
+        "userId": "Traveller",
         "password": "",
-        "userName": "anonymous"
+        "userName": "Traveller"
     },
     "randomSeed": true,
     "initialHistory": {
