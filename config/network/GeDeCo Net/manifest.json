@@ -1,0 +1,11 @@
+{
+    "serverAddress": "GeDeCo",
+    "serverName": "General Development Corporation Network",
+    "iconName": "",
+    "terminalID": "GDC.B96",
+    "deafaultUser":{
+        "userID": "sales",
+        "password": "",
+        "userName": "Valued Customer"
+    }
+}  
