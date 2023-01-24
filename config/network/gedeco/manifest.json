@@ -1,0 +1,11 @@
+{
+    "serverAddress": "gedeco",
+    "serverName": "General Development Corporation Network",
+    "iconName": "gedeco.png",
+    "terminalID": "GeDeCo",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "privateConnection"
+    }
+}
