@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Remote Terminal L.V.2",
+    "serverName": "Last Vegas: Well Maintained",
     "iconName": "LVnoseart.jpg",
-    "terminalID": "RLV2",
+    "terminalID": "LV",
     "defaultUser": {
         "userId": "Traveller",
         "password": "",
