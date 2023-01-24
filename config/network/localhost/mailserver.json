@@ -44,11 +44,5 @@
         "to": ["Chadowski"],
         "title": "Responsibility For a Possible Suspect",
         "body": "This is just a formality from our office, letting you know that you and one 'Major Mishap' will have some of my men on your tail. This is just a formality in place to ensure everyone's safety while we figure out what happened.  If you have any questions you can always contact my office in the central spire.  -Colonel Sindov"
-    },
-    {
-        "from": "Welcome",
-        "to": ["Traveller"],
-        "title": "To whom it may concern-",
-        "body": "You stand at the precipice of the void; the knife's edge of greatness. Dare you take the steps and secure your glory for all eternity?"
     }
- ]
+]
