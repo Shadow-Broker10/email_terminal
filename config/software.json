@@ -25,8 +25,8 @@
             "System successfully corrupted!"
         ]
     },
-    "sysByrni": {
-      "location": ["localhost"]
+    "sysByrni.exe": {
+      "location": ["localhost"],
       "message": [
           "Byrni is an agricultural, nonindustrial world still lacking adequate means to expand its economy.",
           "As an agricultural world, this world is a near-ideal environment for producing quality foodstuffs of plant, animal, and other forms. Quality foodstuffs are a major export commodity for this world.",
