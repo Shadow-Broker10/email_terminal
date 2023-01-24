@@ -12,7 +12,6 @@
         ]
     },
     "cdata.exe": {
-        "protection": ["admin"],
         "delayed": 2000,
         "message": [
             "Corrupting data.",
