@@ -1,6 +1,7 @@
 {
     "demo.exe": {
         "help": "Demonstrate some rendering features",
+        "secretCommand": true,
         "clear": true,
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ ACHTUNG ⚠</p>",
