@@ -39,5 +39,23 @@
         "userId": "Hitchcock",
         "password": "default1",
         "userName": "Ted"
+    },
+    
+    {
+        "userId": "Dirre",
+        "password": "default1",
+        "userName": "Isho"
+    },
+    
+    {
+        "userId": "Sabine",
+        "password": "default1",
+        "userName": "Cormac"
+    },
+    
+    {
+        "userId": "Mishap",
+        "password": "default1",
+        "userName": "Maxwell"
     }
 ]
